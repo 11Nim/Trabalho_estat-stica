@@ -1,0 +1,17 @@
+# Dados brutos do CAGED (vários GB) - regenerados pelo ScriptParaBaixar.py
+2025/
+
+# Arquivos grandes demais para o GitHub (limite de 100 MB por arquivo).
+# No deploy o painel usa saida/populacao_deploy.parquet.
+saida/populacao.parquet
+saida/*.csv
+
+# Anotações pessoais
+roteiro_apresentacao.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.tmp/
